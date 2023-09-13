@@ -283,12 +283,12 @@ In this section we explore the process of integrating a database containing cryp
 Conclusion
 By integrating your cryptocurrency data into Power BI, designing a star schema, and creating insightful reports and dashboards, you can harness the power of data analytics to make informed decisions in the dynamic world of cryptocurrency trading and investment.
 
-![Alt text](images/photo_5764966737375248483_y.png)
+![Alt text](images/photo_5767218537188932883_y.png)
 
-![Alt text](images/photo_5764966737375248484_y.png)
+![Alt text](images/photo_5767218537188932884_y.png)
 
-![Alt text](images/photo_5764966737375248485_y.png)
+![Alt text](images/photo_5767218537188932885_y.png)
 
-![Alt text](images/photo_5764966737375248487_y.png)
+![Alt text](images/photo_5767218537188932886_y.png)
 
-![Alt text](images/photo_5764966737375248488_y.png)
+![Alt text](images/photo_5767218537188932887_y.png)
