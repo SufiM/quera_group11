@@ -18,9 +18,26 @@ The primary objective of this project is to create a streamlined data pipeline f
 
 In this section, we will walk you through the process of scraping cryptocurrency data from Coin MarketCap using Python and Selenium. We assume that you have already set up the required environment and libraries as mentioned in the introduction.
 
-1. We present a Python script for web scraping the top 200 cryptocurrency data from the Coin MarketCap website. The scraped data includes information about the rank, name, symbol, circulating supply, and historical data link for each cryptocurrency. This data can be valuable for various purposes, including market analysis, research, and tracking cryptocurrency trends.
-2. We have developed a Python script for scraping historical cryptocurrency data from Coin MarketCap. This script allows us to collect historical price and market data for a list of cryptocurrencies over a specified period. The scraped data is saved as CSV files, which can be used for further analysis, visualization, and research.
-3. Now we expand our web scraping efforts to collect GitHub information, programming languages used in cryptocurrency projects, and associated tags for each coin. This information can be valuable for analyzing the development activity, technology stacks, and categorization of cryptocurrencies. We will follow a step-by-step approach to extract this data.
+1. We present a Python script for web scraping the top 200 cryptocurrency data from the Coin MarketCap website for date 2023-05-28. The scraped data includes information about the rank, name, symbol, circulating supply, and historical data link for each cryptocurrency and also extract github link and tags from this page.
+
+![Alt text](images/top200.png)
+2. For every currency link, we extract GitHub links and tags
+![Alt text](images/main-page.png)
+
+![Alt text](images/historical-tag.png)
+![Alt text](images/github-button.png)
+![Alt text](images/tags.png)
+
+3. We extract data such as the number of commits, stars, collaborators, and the programming language used for developing this currency from the currency's GitHub page link.
+
+![Alt text](images/githubpage.png)
+![Alt text](images/github-languages.png)
+
+4. We have developed a Python script for scraping historical cryptocurrency data from Coin MarketCap. This script allows us to collect historical price and market data for a list of cryptocurrencies over a specified period. The scraped data is saved as CSV files, which can be used for further analysis, visualization, and research.
+
+![Alt text](images/historical-currency.png)
+![Alt text](images/historical-365.png)
+
 
 ### Database Intgration
 Introduction
@@ -39,6 +56,8 @@ Mapping Classes to Tables: We use SQLAlchemy's Object-Relational Mapping (ORM) c
 Table Creation: We execute commands to create the necessary tables in the database based on the defined model classes. Each table corresponds to a type of cryptocurrency data, such as coin details, GitHub information, programming languages, and tags.
 4. Inserting Data
 Data Insertion: We insert data from the scraped CSV files into the corresponding database tables. This involves iterating through the data, creating instances of the model classes, and adding them to the session for later commit.
+
+![Alt text](images/ERD.png)
 
 ### Statistical Analysis
 
@@ -282,6 +301,8 @@ In this section we explore the process of integrating a database containing cryp
 
 Conclusion
 By integrating your cryptocurrency data into Power BI, designing a star schema, and creating insightful reports and dashboards, you can harness the power of data analytics to make informed decisions in the dynamic world of cryptocurrency trading and investment.
+
+![Alt text](images/ptables.png)
 
 ![Alt text](images/photo_5767218537188932883_y.png)
 
