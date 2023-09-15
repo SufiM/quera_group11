@@ -1,0 +1,194 @@
+id,name
+1,PoW
+2,SHA-256
+3,Store Of Value
+4,State Channel
+5,Coinbase Ventures Portfolio
+6,Three Arrows Capital Portfolio
+7,Polychain Capital Portfolio
+8,Binance Labs Portfolio
+9,Blockchain Capital Portfolio
+10,BoostVC Portfolio
+11,CMS Holdings Portfolio
+12,DCG Portfolio
+13,DragonFly Capital Portfolio
+14,Electric Capital Portfolio
+15,Fabric Ventures Portfolio
+16,Framework Ventures Portfolio
+17,Galaxy Digital Portfolio
+18,Huobi Capital Portfolio
+19,Alameda Research Portfolio
+20,a16z Portfolio
+21,1Confirmation Portfolio
+22,Winklevoss Capital Portfolio
+23,USV Portfolio
+24,Placeholder Ventures Portfolio
+25,Pantera Capital Portfolio
+26,Multicoin Capital Portfolio
+27,Paradigm Portfolio
+28,Mineable
+29,Bitcoin Ecosystem
+30,PoS
+31,Smart Contracts
+32,Hashkey Capital Portfolio
+33,Kenetic Capital Portfolio
+34,Layer 1
+35,Ethereum Ecosystem
+36,Injective Ecosystem
+37,Stablecoin
+38,Asset-Backed Stablecoin
+39,USD Stablecoin
+40,Payments
+41,Avalanche Ecosystem
+42,Solana Ecosystem
+43,Arbitrum Ecosystem
+44,Moonriver Ecosystem
+45,BNB Chain
+46,Optimism Ecosystem
+47,Centralized Exchange (CEX) Token
+48,SEC Security Token
+49,Alleged SEC Securities
+50,Celsius Bankruptcy Estate
+51,Marketplace
+52,Arrington XRP Capital Portfolio
+53,Medium of Exchange
+54,Enterprise Solutions
+55,Hedera Hashgraph Ecosystem
+56,Fantom Ecosystem
+57,DPoS
+58,Platform
+59,Staking
+60,Research
+61,Cardano Ecosystem
+62,Cardano
+63,Scrypt
+64,Doggone Doggerel
+65,Memes
+66,OKEx Blockdream Ventures Portfolio
+67,FTX Bankruptcy Estate
+68,DWF Labs Portfolio
+69,Media
+70,TRON Ecosystem
+71,Substrate
+72,Coinfund Portfolio
+73,Fenbushi Capital Portfolio
+74,Exnetwork Capital Portfolio
+75,Spartan Group
+76,Web3
+77,Polkadot
+78,Binance Chain
+79,Polkadot Ecosystem
+80,DeFi
+81,Polygon Ecosystem
+82,Harmony Ecosystem
+83,Zero Knowledge Proofs
+84,Scaling
+85,Layer 2
+86,Binance Launchpad
+87,Toncoin Ecosystem
+88,Wrapped Tokens
+89,Discount Token
+90,Decentralized Exchange (DEX) Token
+91,Oracles
+92,Real World Assets
+93,Near Protocol Ecosystem
+94,Linea Ecosystem
+95,DAO
+96,Yield Farming
+97,AMM
+98,Governance
+99,DeFiance Capital Portfolio
+100,ParaFi Capital
+101,Privacy
+102,RingCT
+103,Interoperability
+104,Content Creation
+105,Cosmos Ecosystem
+106,Ethash
+107,DAG
+108,Collectibles & NFTs
+109,Wallet
+110,Storage
+111,Launchpad
+112,Lending & Borrowing
+113,Metaverse
+114,Distributed Computing
+115,Internet Computer Ecosystem
+116,Filesharing
+117,Filecoin Ecosystem
+118,Liquid Staking Derivatives
+119,Mobile
+120,Circle Ventures Portfolio
+121,Aptos Ecosystem
+122,DApp
+123,Rollups
+124,Logistics
+125,Data Provenance
+126,IoT
+127,Analytics
+128,LedgerPrime Portfolio
+129,AI & Big Data
+130,XDC Ecosystem
+131,Algorithmic Stablecoin
+132,Play To Earn
+133,Animoca Brands Portfolio
+134,Gaming
+135,Elrond Ecosystem
+136,EOS
+137,Video
+138,Cosmos
+139,BNB Smart Chain
+140,Derivatives
+141,Services
+142,Synthetics
+143,Art
+144,VR/AR
+145,Entertainment
+146,DEX
+147,Tokenized Gold
+148,Sports
+149,Algorand Ecosystem
+150,Seigniorage
+151,Olympus Pro Ecosystem
+152,Sharing Economy
+153,Equihash
+154,Binance Launchpool
+155,Hybrid - PoW & DPoS
+156,Terra Ecosystem
+157,MVB
+158,VBC Ventures Portfolio
+159,Hybrid - PoW & PoS
+160,X11
+161,Masternodes
+162,Zilliqa Ecosystem
+163,Prediction Markets
+164,Marketing
+165,Jump Crypto
+166,SEI Ecosystem
+167,Red Packets
+168,Token
+169,PoI
+170,Cross-Chain DEX Aggregator
+171,Yield Aggregator
+172,Communications & Social Media
+173,Celo Ecosystem
+174,BLAKE256
+175,Crowdfunding
+176,Yearn Partnerships
+177,Move To Earn
+178,Base Ecosystem
+179,LPoS
+180,Music
+181,Blake2b
+182,Identity
+183,Hardware
+184,IoTeX Ecosystem
+185,Gaming Guild
+186,Blake2S
+187,Kadena Ecosystem
+188,Telegram Bot
+189,Multiple algorithms
+190,Cross-Chain
+191,DAO Maker
+192,Sidechain
+193,Everscale Ecosystem
